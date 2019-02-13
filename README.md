@@ -20,15 +20,15 @@ Zişan KARSATAR- 172802058
 
 
 İÇİNDEKİLER
-Kapak………………………………………………………….1
-İçindekiler…………………………………………………2
-Ödevin Amacı.………………………………………….3
-Ödevin Kapsamı ………….…………………………3
-UML Sınıf Diyagramı.…..…….…………………4-5
-Ekran Görüntüleri………………………………….5-8
-Önemli Kod Parçaları……………………………9-12
-Youtube Linki…………………………………………..12
-Yararlanılan Kaynaklar………………………..12
+1. Kapak………………………………………………………….1
+2. İçindekiler…………………………………………………2
+3. Ödevin Amacı.………………………………………….3
+4. Ödevin Kapsamı ………….…………………………3
+5. UML Sınıf Diyagramı.…..…….…………………4-5
+6. Ekran Görüntüleri………………………………….5-8
+7. Önemli Kod Parçaları……………………………9-12
+8. Youtube Linki…………………………………………..12
+9. Yararlanılan Kaynaklar………………………..12
 
 
 
@@ -64,9 +64,9 @@ UML diyagramında kullanılan sınıfların detaylı açıklamaları ve işlevle
 	4.	Siparis Sınfı: Bu sınıfta SiparisDetay sınıfı ile aggregation ilişki kurulmuştur. Siparişlerimiz sipariş detay sınıfına burada aktarılmıştır. Toplam ağırlık, vergi tutarı, kargo ücreti ve en sonunda toplam tutar hesaplanması için kullanılan metotlar bu sınıfımızdadır.
 	5.	SiparisDetay Sınıfı: Bu sınıfta Vergi ve Tutar değişkenlerimizi tanımlıyoruz. AraToplam metodu ile vergiye KDV eklenmiş halini hesaplıyoruz. CalcWeight metodun da ise ürün ağırlığını alıyoruz.
 	6.	Odeme Sınıfı: Abstract class olan bu sınıfımızda OdemeMiktarı değişkenini tanımladık ve UcretOde metodu oluşturduk. 
-		CekleOdeme Sınıfı: Bu sınıfımız Odeme sınıfından kalıtım almıştır. Burada Isim ve BankID değişkenlerini tanımladık. Bankadan işlemin yapıldığına dair onay alma metodu oluşturduk ve ödenen miktarla ilgili tutarı gönderen UcretOde fonksiyonumuzu override ederek tutarı gönderdik.
-		KrediKartıylaOdeme Sınıfı: Bu sınıf Odeme sınıfından kalıtım almıştır. KartNo, Tip, SonKullanmaTarihi değişkenlerimizi tanımladık. Burada da ödeme işleminin yapıldığına dair onay gönderen metot oluşturuldu ve ödenen miktarla ilgili tutarı gönderen UcretOde fonksiyonumuzu override ederek tutar gönderildi.
-		NakitOdeme Sınıfı: Bu sınıfta Odeme sınıfından kalıtım almıştır. Burada da ödeme işleminin yapıldığına dair onay alan metot oluşturuldu ve ödenen miktarla ilgili tutarı gönderen UcretOde fonksiyonumuzu override ederek tutar gönderilirken nakit ödeme yaptığı için otomasyonumuz tarafından tutarın %10 olacak şekilde indirim tutarımıza tanımlanmıştır.
+	7.	CekleOdeme Sınıfı: Bu sınıfımız Odeme sınıfından kalıtım almıştır. Burada Isim ve BankID değişkenlerini tanımladık. Bankadan işlemin yapıldığına dair onay alma metodu oluşturduk ve ödenen miktarla ilgili tutarı gönderen UcretOde fonksiyonumuzu override ederek tutarı gönderdik.
+	8.	KrediKartıylaOdeme Sınıfı: Bu sınıf Odeme sınıfından kalıtım almıştır. KartNo, Tip, SonKullanmaTarihi değişkenlerimizi tanımladık. Burada da ödeme işleminin yapıldığına dair onay gönderen metot oluşturuldu ve ödenen miktarla ilgili tutarı gönderen UcretOde fonksiyonumuzu override ederek tutar gönderildi.
+	9.	NakitOdeme Sınıfı: Bu sınıfta Odeme sınıfından kalıtım almıştır. Burada da ödeme işleminin yapıldığına dair onay alan metot oluşturuldu ve ödenen miktarla ilgili tutarı gönderen UcretOde fonksiyonumuzu override ederek tutar gönderilirken nakit ödeme yaptığı için otomasyonumuz tarafından tutarın %10 olacak şekilde indirim tutarımıza tanımlanmıştır.
 
 #Ekran Görüntüleri
 1-Giriş Ekranı: Müşteri veya yönetici için gerekli bilgilerin girilmesi halinde ilgili formlar açılacaktır. Burada otomasyona giriş yapıyoruz.
@@ -85,7 +85,7 @@ UML diyagramında kullanılan sınıfların detaylı açıklamaları ve işlevle
 
 6-YETKİLİ FİRMA: ÜRÜN EKLEME-ÇIKARTMA-GÜNCELLEME EKRANI: Bu ekranımızda ise yönetici olarak giriş yaptığımızda karşımıza çıkmaktadır. Ürünlerimizin stoktaki son durumları görülmektedir. Yönetici olarak ürün güncelleyip, ekleme ve çıkartma işlemlerini yapabiliyoruz.
 
-6-YETKİLİ FİRMA: VERİLEN SİPARİŞLERİN LİSTESİNİ GÖRÜNTÜLEME EKRANI: Yetkili firmamızın bir diğer ekranında ise müşterilerimizin otomasyonumuz üzerinden aldığı ürünlerin adedini alış tarihini vb. örnekleri görebiliyoruz. 
+7-YETKİLİ FİRMA: VERİLEN SİPARİŞLERİN LİSTESİNİ GÖRÜNTÜLEME EKRANI: Yetkili firmamızın bir diğer ekranında ise müşterilerimizin otomasyonumuz üzerinden aldığı ürünlerin adedini alış tarihini vb. örnekleri görebiliyoruz. 
 
 
 
@@ -116,8 +116,8 @@ Temp içinde ki verileri her bir boşluk gördüğünde components dizisine atı
 https://youtu.be/LxXsTPVMaeM
 
 #Yararlanılan Kaynaklar
-		https://www.youtube.com/channel/UCeTERIXq5FWhTkblkVW_0Nw
-		C# 7.0 Sefer Algan
-		https://stackoverflow.com/	
+	1.	https://www.youtube.com/channel/UCeTERIXq5FWhTkblkVW_0Nw
+	2.	C# 7.0 Sefer Algan
+	3.	https://stackoverflow.com/	
 
 
