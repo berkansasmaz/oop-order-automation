@@ -56,24 +56,24 @@ UML diyagramında kullanılan sınıfların detaylı açıklamaları ve işlevle
 	8.	KrediKartıylaOdeme Sınıfı: Bu sınıf Odeme sınıfından kalıtım almıştır. KartNo, Tip, SonKullanmaTarihi değişkenlerimizi tanımladık. Burada da ödeme işleminin yapıldığına dair onay gönderen metot oluşturuldu ve ödenen miktarla ilgili tutarı gönderen UcretOde fonksiyonumuzu override ederek tutar gönderildi.
 	9.	NakitOdeme Sınıfı: Bu sınıfta Odeme sınıfından kalıtım almıştır. Burada da ödeme işleminin yapıldığına dair onay alan metot oluşturuldu ve ödenen miktarla ilgili tutarı gönderen UcretOde fonksiyonumuzu override ederek tutar gönderilirken nakit ödeme yaptığı için otomasyonumuz tarafından tutarın %10 olacak şekilde indirim tutarımıza tanımlanmıştır.
 
-#Ekran Görüntüleri
-1-Giriş Ekranı: Müşteri veya yönetici için gerekli bilgilerin girilmesi halinde ilgili formlar açılacaktır. Burada otomasyona giriş yapıyoruz.
+#Ekran Görüntüleri:
+1. Giriş Ekranı: Müşteri veya yönetici için gerekli bilgilerin girilmesi halinde ilgili formlar açılacaktır. Burada otomasyona giriş yapıyoruz.
 
 
-2-ANA EKRAN: Müşteri için giriş yapılması halinde karşımıza çıkan Mdi child olarak şekillendirdiğimiz form.
+2. ANA EKRAN: Müşteri için giriş yapılması halinde karşımıza çıkan Mdi child olarak şekillendirdiğimiz form.
 
 
-3-ÜRÜN SEÇME, SİPARİŞ VERME EKRANI: Müşterimizin ürün ve adedini seçmesi için oluşturduğumuz ekran. Burada ürünü en fazla stoklarda bulunan miktar kadar seçebilir.  
+3. ÜRÜN SEÇME, SİPARİŞ VERME EKRANI: Müşterimizin ürün ve adedini seçmesi için oluşturduğumuz ekran. Burada ürünü en fazla stoklarda bulunan miktar kadar seçebilir.  
 
 
-4-SEPET EKRANI: Ürün seçimi yapıldıktan sonra sepete ekle butonumuz ile karşımıza açılan formdur. Burada istenirse alışverişe devam edilebilir veya ödeme işlemine geçiş yapılabilir. 
+4. SEPET EKRANI: Ürün seçimi yapıldıktan sonra sepete ekle butonumuz ile karşımıza açılan formdur. Burada istenirse alışverişe devam edilebilir veya ödeme işlemine geçiş yapılabilir. 
 
 
-5-ÖDEME EKRANI: Bu ekranda istediğimiz tip ödemeyi seçerek ödeme işlemini tamamlayabiliriz. Ödeme yapmaktan vazgeçen müşterilerimiz için Sipariş iptal butonu ile sipariş iptal edilir.
+5. ÖDEME EKRANI: Bu ekranda istediğimiz tip ödemeyi seçerek ödeme işlemini tamamlayabiliriz. Ödeme yapmaktan vazgeçen müşterilerimiz için Sipariş iptal butonu ile sipariş iptal edilir.
 
-6-YETKİLİ FİRMA: ÜRÜN EKLEME-ÇIKARTMA-GÜNCELLEME EKRANI: Bu ekranımızda ise yönetici olarak giriş yaptığımızda karşımıza çıkmaktadır. Ürünlerimizin stoktaki son durumları görülmektedir. Yönetici olarak ürün güncelleyip, ekleme ve çıkartma işlemlerini yapabiliyoruz.
+6. YETKİLİ FİRMA: ÜRÜN EKLEME-ÇIKARTMA-GÜNCELLEME EKRANI: Bu ekranımızda ise yönetici olarak giriş yaptığımızda karşımıza çıkmaktadır. Ürünlerimizin stoktaki son durumları görülmektedir. Yönetici olarak ürün güncelleyip, ekleme ve çıkartma işlemlerini yapabiliyoruz.
 
-7-YETKİLİ FİRMA: VERİLEN SİPARİŞLERİN LİSTESİNİ GÖRÜNTÜLEME EKRANI: Yetkili firmamızın bir diğer ekranında ise müşterilerimizin otomasyonumuz üzerinden aldığı ürünlerin adedini alış tarihini vb. örnekleri görebiliyoruz. 
+7. YETKİLİ FİRMA: VERİLEN SİPARİŞLERİN LİSTESİNİ GÖRÜNTÜLEME EKRANI: Yetkili firmamızın bir diğer ekranında ise müşterilerimizin otomasyonumuz üzerinden aldığı ürünlerin adedini alış tarihini vb. örnekleri görebiliyoruz. 
 
 
 
