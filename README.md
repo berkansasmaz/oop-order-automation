@@ -28,23 +28,13 @@ PROJE EKİBİ
 8. Youtube Linki…………………………………………..12
 9. Yararlanılan Kaynaklar………………………..12
 
-
-
-
-
-
-
-
-
-
-
-SİPARİŞ OTOMASYONU
-#Ödevin Amacı
+                                                SİPARİŞ OTOMASYONU
+#Ödevin Amacı:
 Geliştirdiğimiz otomasyon günümüzde sıklıkla kullanılan internet alışverişinde olduğu gibi ürün alıp, ödeme yapmayı kolaylaştırmak için oluşturulmuştur. Yönetici ekranı sayesinde stoklara ürün ekleme, güncelleme ve çıkartma işlemleri de otomasyonumuzda bulunan özelliklerden. Oluşturduğumuz otomasyona ait detaylı bilgileri aşağıda açıklanmıştır.
 
-#Ödevin Kapsamı
-		Kullanılan platform, dil ve kütüphaneler: Visual Studio2017 Community Common7 IDE, C#, .Net
-		Geliştirdiğimiz otomasyon kapsamında ilk olarak müşteri ve yönetici girişi için şifre, kullanıcı adı gibi bilgileri textlerde (CustomerLogin.txt, AdminLogin.txt) tuttuk. Giriş işleminin güvenilir olması için bilgiler doğru girilene kadar ana ekrana erişilemiyor. Doğru giriş yapıldıktan sonra textte tuttuğumuz ürünlerimizi (ItemData.txt) önce diziye aktardık sonra ürün ID numaralarına göre litstte sıralayarak, ilgili sınıflara dağıttık. Listenin her elemanında ürüne ve ait bilgiler (ürün ID, ürün adı, ürün adedi, ürün fiyatı, ürün ağırlığı ve ürün açıklaması) bulunmaktadır. Müşterin sipariş verirken ürün ekranında ve ödeme yapıldıktan sonra yetkili firma formunda bu bilgilere detaylı bir şeklide ulaşabiliriz.
+#Ödevin Kapsamı:
+	1.	Kullanılan platform, dil ve kütüphaneler: Visual Studio2017 Community Common7 IDE, C#, .Net
+	2.	Geliştirdiğimiz otomasyon kapsamında ilk olarak müşteri ve yönetici girişi için şifre, kullanıcı adı gibi bilgileri textlerde (CustomerLogin.txt, AdminLogin.txt) tuttuk. Giriş işleminin güvenilir olması için bilgiler doğru girilene kadar ana ekrana erişilemiyor. Doğru giriş yapıldıktan sonra textte tuttuğumuz ürünlerimizi (ItemData.txt) önce diziye aktardık sonra ürün ID numaralarına göre litstte sıralayarak, ilgili sınıflara dağıttık. Listenin her elemanında ürüne ve ait bilgiler (ürün ID, ürün adı, ürün adedi, ürün fiyatı, ürün ağırlığı ve ürün açıklaması) bulunmaktadır. Müşterin sipariş verirken ürün ekranında ve ödeme yapıldıktan sonra yetkili firma formunda bu bilgilere detaylı bir şeklide ulaşabiliriz.
 
 
 
@@ -53,7 +43,7 @@ Geliştirdiğimiz otomasyon günümüzde sıklıkla kullanılan internet alışv
 
 
 
-#UML Sınıf Diyagramı
+#UML Sınıf Diyagramı:
 
 UML diyagramında kullanılan sınıfların detaylı açıklamaları ve işlevleri şunlardır:
 	1.	YetkiliFirma Sınıfı: Bu sınıfta ürün ekleme, çıkartma, ürün stok güncelleme yapmak için metotlar kullanılmıştır. Ve ürünlerimiz ItemData.txt çekilip listeye burada aktarılmıştır.
