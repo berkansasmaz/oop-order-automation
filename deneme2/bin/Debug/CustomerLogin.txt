@@ -1,0 +1,4 @@
+1 customer1 customer1 Çanakkale
+2 customer2 customer2 Mugla
+3 customer3 customer3 Konya
+4 customer4 customer4 Maras

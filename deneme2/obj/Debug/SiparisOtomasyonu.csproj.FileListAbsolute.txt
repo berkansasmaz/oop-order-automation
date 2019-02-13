@@ -1,0 +1,90 @@
+C:\Users\asus\Desktop\sacmala\bahardeneme\bahardeneme\deneme2\bin\Debug\deneme2.exe.config
+C:\Users\asus\Desktop\sacmala\bahardeneme\bahardeneme\deneme2\bin\Debug\deneme2.exe
+C:\Users\asus\Desktop\sacmala\bahardeneme\bahardeneme\deneme2\bin\Debug\deneme2.pdb
+C:\Users\asus\Desktop\sacmala\bahardeneme\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\sacmala\bahardeneme\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.Ana_Menu.resources
+C:\Users\asus\Desktop\sacmala\bahardeneme\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.Menu.resources
+C:\Users\asus\Desktop\sacmala\bahardeneme\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.Payment.resources
+C:\Users\asus\Desktop\sacmala\bahardeneme\bahardeneme\deneme2\obj\Debug\deneme2.Properties.Resources.resources
+C:\Users\asus\Desktop\sacmala\bahardeneme\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.Sepet.resources
+C:\Users\asus\Desktop\sacmala\bahardeneme\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.Urunler.resources
+C:\Users\asus\Desktop\sacmala\bahardeneme\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.Yetkili_Firma.resources
+C:\Users\asus\Desktop\sacmala\bahardeneme\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\sacmala\bahardeneme\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\sacmala\bahardeneme\bahardeneme\deneme2\obj\Debug\deneme2.exe
+C:\Users\asus\Desktop\sacmala\bahardeneme\bahardeneme\deneme2\obj\Debug\deneme2.pdb
+C:\Users\BHR\Downloads\final\bahardeneme\deneme2\bin\Debug\deneme2.exe.config
+C:\Users\BHR\Downloads\final\bahardeneme\deneme2\bin\Debug\deneme2.exe
+C:\Users\BHR\Downloads\final\bahardeneme\deneme2\bin\Debug\deneme2.pdb
+C:\Users\BHR\Downloads\final\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\BHR\Downloads\final\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.Ana_Menu.resources
+C:\Users\BHR\Downloads\final\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.Menu.resources
+C:\Users\BHR\Downloads\final\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.Payment.resources
+C:\Users\BHR\Downloads\final\bahardeneme\deneme2\obj\Debug\deneme2.Properties.Resources.resources
+C:\Users\BHR\Downloads\final\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.Sepet.resources
+C:\Users\BHR\Downloads\final\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.Urunler.resources
+C:\Users\BHR\Downloads\final\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.Yetkili_Firma.resources
+C:\Users\BHR\Downloads\final\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\BHR\Downloads\final\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\BHR\Downloads\final\bahardeneme\deneme2\obj\Debug\deneme2.exe
+C:\Users\BHR\Downloads\final\bahardeneme\deneme2\obj\Debug\deneme2.pdb
+C:\Users\asus\Desktop\son\FİNAL\bahardeneme\deneme2\bin\Debug\deneme2.exe.config
+C:\Users\asus\Desktop\son\FİNAL\bahardeneme\deneme2\bin\Debug\deneme2.exe
+C:\Users\asus\Desktop\son\FİNAL\bahardeneme\deneme2\bin\Debug\deneme2.pdb
+C:\Users\asus\Desktop\son\FİNAL\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\son\FİNAL\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.Ana_Menu.resources
+C:\Users\asus\Desktop\son\FİNAL\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.Menu.resources
+C:\Users\asus\Desktop\son\FİNAL\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.Payment.resources
+C:\Users\asus\Desktop\son\FİNAL\bahardeneme\deneme2\obj\Debug\deneme2.Properties.Resources.resources
+C:\Users\asus\Desktop\son\FİNAL\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.Sepet.resources
+C:\Users\asus\Desktop\son\FİNAL\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.Urunler.resources
+C:\Users\asus\Desktop\son\FİNAL\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.Yetkili_Firma.resources
+C:\Users\asus\Desktop\son\FİNAL\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\son\FİNAL\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\son\FİNAL\bahardeneme\deneme2\obj\Debug\deneme2.exe
+C:\Users\asus\Desktop\son\FİNAL\bahardeneme\deneme2\obj\Debug\deneme2.pdb
+C:\Users\Berkan\Documents\C#\Güz Dönemi Vize\Proje\FİNAL\bahardeneme\deneme2\bin\Debug\deneme2.exe.config
+C:\Users\Berkan\Documents\C#\Güz Dönemi Vize\Proje\FİNAL\bahardeneme\deneme2\bin\Debug\deneme2.exe
+C:\Users\Berkan\Documents\C#\Güz Dönemi Vize\Proje\FİNAL\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.csprojAssemblyReference.cache
+C:\Users\Berkan\Documents\C#\Güz Dönemi Vize\Proje\FİNAL\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.Ana_Menu.resources
+C:\Users\Berkan\Documents\C#\Güz Dönemi Vize\Proje\FİNAL\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.Menu.resources
+C:\Users\Berkan\Documents\C#\Güz Dönemi Vize\Proje\FİNAL\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.Payment.resources
+C:\Users\Berkan\Documents\C#\Güz Dönemi Vize\Proje\FİNAL\bahardeneme\deneme2\obj\Debug\deneme2.Properties.Resources.resources
+C:\Users\Berkan\Documents\C#\Güz Dönemi Vize\Proje\FİNAL\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.Sepet.resources
+C:\Users\Berkan\Documents\C#\Güz Dönemi Vize\Proje\FİNAL\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.Urunler.resources
+C:\Users\Berkan\Documents\C#\Güz Dönemi Vize\Proje\FİNAL\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.Yetkili_Firma.resources
+C:\Users\Berkan\Documents\C#\Güz Dönemi Vize\Proje\FİNAL\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Berkan\Documents\C#\Güz Dönemi Vize\Proje\FİNAL\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Berkan\Documents\C#\Güz Dönemi Vize\Proje\FİNAL\bahardeneme\deneme2\obj\Debug\deneme2.exe
+C:\Users\Berkan\Documents\C#\Güz Dönemi Vize\Proje\FİNAL\bahardeneme\deneme2\obj\Debug\deneme2.pdb
+C:\Users\Berkan\Documents\C#\Güz Dönemi Vize\Proje\FİNAL\bahardeneme\deneme2\bin\Debug\deneme2.pdb
+C:\Users\asus\Desktop\28-12\FİNAL\bahardeneme\deneme2\bin\Debug\deneme2.exe.config
+C:\Users\asus\Desktop\28-12\FİNAL\bahardeneme\deneme2\bin\Debug\deneme2.exe
+C:\Users\asus\Desktop\28-12\FİNAL\bahardeneme\deneme2\bin\Debug\deneme2.pdb
+C:\Users\asus\Desktop\28-12\FİNAL\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\28-12\FİNAL\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.Ana_Menu.resources
+C:\Users\asus\Desktop\28-12\FİNAL\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.Menu.resources
+C:\Users\asus\Desktop\28-12\FİNAL\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.Payment.resources
+C:\Users\asus\Desktop\28-12\FİNAL\bahardeneme\deneme2\obj\Debug\deneme2.Properties.Resources.resources
+C:\Users\asus\Desktop\28-12\FİNAL\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.Sepet.resources
+C:\Users\asus\Desktop\28-12\FİNAL\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.Urunler.resources
+C:\Users\asus\Desktop\28-12\FİNAL\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.Yetkili_Firma.resources
+C:\Users\asus\Desktop\28-12\FİNAL\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\28-12\FİNAL\bahardeneme\deneme2\obj\Debug\SiparisOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\28-12\FİNAL\bahardeneme\deneme2\obj\Debug\deneme2.exe
+C:\Users\asus\Desktop\28-12\FİNAL\bahardeneme\deneme2\obj\Debug\deneme2.pdb
+C:\Users\Berkan\Documents\C#\Güz Dönemi Vize\Proje\FİNAL\deneme2\obj\Debug\SiparisOtomasyonu.csprojAssemblyReference.cache
+C:\Users\Berkan\Documents\C#\Güz Dönemi Vize\Proje\FİNAL\deneme2\obj\Debug\SiparisOtomasyonu.Ana_Menu.resources
+C:\Users\Berkan\Documents\C#\Güz Dönemi Vize\Proje\FİNAL\deneme2\obj\Debug\SiparisOtomasyonu.Menu.resources
+C:\Users\Berkan\Documents\C#\Güz Dönemi Vize\Proje\FİNAL\deneme2\obj\Debug\SiparisOtomasyonu.Payment.resources
+C:\Users\Berkan\Documents\C#\Güz Dönemi Vize\Proje\FİNAL\deneme2\obj\Debug\deneme2.Properties.Resources.resources
+C:\Users\Berkan\Documents\C#\Güz Dönemi Vize\Proje\FİNAL\deneme2\obj\Debug\SiparisOtomasyonu.Sepet.resources
+C:\Users\Berkan\Documents\C#\Güz Dönemi Vize\Proje\FİNAL\deneme2\obj\Debug\SiparisOtomasyonu.Urunler.resources
+C:\Users\Berkan\Documents\C#\Güz Dönemi Vize\Proje\FİNAL\deneme2\obj\Debug\SiparisOtomasyonu.Yetkili_Firma.resources
+C:\Users\Berkan\Documents\C#\Güz Dönemi Vize\Proje\FİNAL\deneme2\obj\Debug\SiparisOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Berkan\Documents\C#\Güz Dönemi Vize\Proje\FİNAL\deneme2\obj\Debug\SiparisOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Berkan\Documents\C#\Güz Dönemi Vize\Proje\FİNAL\deneme2\obj\Debug\deneme2.exe
+C:\Users\Berkan\Documents\C#\Güz Dönemi Vize\Proje\FİNAL\deneme2\obj\Debug\deneme2.pdb
+C:\Users\Berkan\Documents\C#\Güz Dönemi Vize\Proje\FİNAL\deneme2\bin\Debug\deneme2.exe.config
+C:\Users\Berkan\Documents\C#\Güz Dönemi Vize\Proje\FİNAL\deneme2\bin\Debug\deneme2.exe
+C:\Users\Berkan\Documents\C#\Güz Dönemi Vize\Proje\FİNAL\deneme2\bin\Debug\deneme2.pdb

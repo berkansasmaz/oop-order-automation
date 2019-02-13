@@ -1,0 +1,189 @@
+C:\Users\BHR\source\repos\deneme2\deneme2\bin\Debug\deneme2.exe.config
+C:\Users\BHR\source\repos\deneme2\deneme2\bin\Debug\deneme2.exe
+C:\Users\BHR\source\repos\deneme2\deneme2\bin\Debug\deneme2.pdb
+C:\Users\BHR\source\repos\deneme2\deneme2\obj\Debug\deneme2.csprojResolveAssemblyReference.cache
+C:\Users\BHR\source\repos\deneme2\deneme2\obj\Debug\deneme2.Properties.Resources.resources
+C:\Users\BHR\source\repos\deneme2\deneme2\obj\Debug\deneme2.csproj.GenerateResource.Cache
+C:\Users\BHR\source\repos\deneme2\deneme2\obj\Debug\deneme2.csproj.CoreCompileInputs.cache
+C:\Users\BHR\source\repos\deneme2\deneme2\obj\Debug\deneme2.exe
+C:\Users\BHR\source\repos\deneme2\deneme2\obj\Debug\deneme2.pdb
+C:\Users\BHR\source\repos\deneme2\deneme2\obj\Debug\deneme2.Uye_Ol.resources
+C:\Users\BHR\source\repos\deneme2\deneme2\obj\Debug\deneme2.Urunler.resources
+C:\Users\BHR\source\repos\deneme2\deneme2\obj\Debug\deneme2.Ana_Menu.resources
+C:\Users\BHR\source\repos\deneme2\deneme2\obj\Debug\deneme2.Payment.resources
+C:\Users\BHR\source\repos\deneme2\deneme2\obj\Debug\deneme2.Sepet.resources
+C:\Users\BHR\source\repos\deneme2\deneme2\obj\Debug\deneme2.Yetkili_Firma.resources
+C:\Users\BHR\source\repos\deneme2\deneme2\obj\Debug\deneme2.Menu.resources
+C:\Users\asus\Desktop\deneme2\deneme2\deneme2\bin\Debug\deneme2.exe.config
+C:\Users\asus\Desktop\deneme2\deneme2\deneme2\bin\Debug\deneme2.exe
+C:\Users\asus\Desktop\deneme2\deneme2\deneme2\bin\Debug\deneme2.pdb
+C:\Users\asus\Desktop\deneme2\deneme2\deneme2\obj\Debug\deneme2.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\deneme2\deneme2\deneme2\obj\Debug\deneme2.Ana_Menu.resources
+C:\Users\asus\Desktop\deneme2\deneme2\deneme2\obj\Debug\deneme2.Menu.resources
+C:\Users\asus\Desktop\deneme2\deneme2\deneme2\obj\Debug\deneme2.Payment.resources
+C:\Users\asus\Desktop\deneme2\deneme2\deneme2\obj\Debug\deneme2.Properties.Resources.resources
+C:\Users\asus\Desktop\deneme2\deneme2\deneme2\obj\Debug\deneme2.Sepet.resources
+C:\Users\asus\Desktop\deneme2\deneme2\deneme2\obj\Debug\deneme2.Urunler.resources
+C:\Users\asus\Desktop\deneme2\deneme2\deneme2\obj\Debug\deneme2.Uye_Ol.resources
+C:\Users\asus\Desktop\deneme2\deneme2\deneme2\obj\Debug\deneme2.Yetkili_Firma.resources
+C:\Users\asus\Desktop\deneme2\deneme2\deneme2\obj\Debug\deneme2.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\deneme2\deneme2\deneme2\obj\Debug\deneme2.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\deneme2\deneme2\deneme2\obj\Debug\deneme2.exe
+C:\Users\asus\Desktop\deneme2\deneme2\deneme2\obj\Debug\deneme2.pdb
+C:\Users\BHR\Downloads\deneme2 - Kopya\deneme2\deneme2\bin\Debug\deneme2.exe.config
+C:\Users\BHR\Downloads\deneme2 - Kopya\deneme2\deneme2\bin\Debug\deneme2.exe
+C:\Users\BHR\Downloads\deneme2 - Kopya\deneme2\deneme2\bin\Debug\deneme2.pdb
+C:\Users\BHR\Downloads\deneme2 - Kopya\deneme2\deneme2\obj\Debug\deneme2.csprojResolveAssemblyReference.cache
+C:\Users\BHR\Downloads\deneme2 - Kopya\deneme2\deneme2\obj\Debug\deneme2.Ana_Menu.resources
+C:\Users\BHR\Downloads\deneme2 - Kopya\deneme2\deneme2\obj\Debug\deneme2.Menu.resources
+C:\Users\BHR\Downloads\deneme2 - Kopya\deneme2\deneme2\obj\Debug\deneme2.Payment.resources
+C:\Users\BHR\Downloads\deneme2 - Kopya\deneme2\deneme2\obj\Debug\deneme2.Properties.Resources.resources
+C:\Users\BHR\Downloads\deneme2 - Kopya\deneme2\deneme2\obj\Debug\deneme2.Sepet.resources
+C:\Users\BHR\Downloads\deneme2 - Kopya\deneme2\deneme2\obj\Debug\deneme2.Urunler.resources
+C:\Users\BHR\Downloads\deneme2 - Kopya\deneme2\deneme2\obj\Debug\deneme2.Uye_Ol.resources
+C:\Users\BHR\Downloads\deneme2 - Kopya\deneme2\deneme2\obj\Debug\deneme2.Yetkili_Firma.resources
+C:\Users\BHR\Downloads\deneme2 - Kopya\deneme2\deneme2\obj\Debug\deneme2.csproj.GenerateResource.Cache
+C:\Users\BHR\Downloads\deneme2 - Kopya\deneme2\deneme2\obj\Debug\deneme2.csproj.CoreCompileInputs.cache
+C:\Users\BHR\Downloads\deneme2 - Kopya\deneme2\deneme2\obj\Debug\deneme2.exe
+C:\Users\BHR\Downloads\deneme2 - Kopya\deneme2\deneme2\obj\Debug\deneme2.pdb
+C:\Users\asus\Desktop\15-12\proje\deneme2\deneme2\bin\Debug\deneme2.exe.config
+C:\Users\asus\Desktop\15-12\proje\deneme2\deneme2\bin\Debug\deneme2.exe
+C:\Users\asus\Desktop\15-12\proje\deneme2\deneme2\bin\Debug\deneme2.pdb
+C:\Users\asus\Desktop\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Ana_Menu.resources
+C:\Users\asus\Desktop\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Menu.resources
+C:\Users\asus\Desktop\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Payment.resources
+C:\Users\asus\Desktop\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Properties.Resources.resources
+C:\Users\asus\Desktop\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Sepet.resources
+C:\Users\asus\Desktop\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Urunler.resources
+C:\Users\asus\Desktop\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Uye_Ol.resources
+C:\Users\asus\Desktop\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Yetkili_Firma.resources
+C:\Users\asus\Desktop\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.exe
+C:\Users\asus\Desktop\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.pdb
+C:\Users\asus\Desktop\sacmalamaca\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\sacmalamaca\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Ana_Menu.resources
+C:\Users\asus\Desktop\sacmalamaca\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Menu.resources
+C:\Users\asus\Desktop\sacmalamaca\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Payment.resources
+C:\Users\asus\Desktop\sacmalamaca\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Properties.Resources.resources
+C:\Users\asus\Desktop\sacmalamaca\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Sepet.resources
+C:\Users\asus\Desktop\sacmalamaca\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Urunler.resources
+C:\Users\asus\Desktop\sacmalamaca\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Uye_Ol.resources
+C:\Users\asus\Desktop\sacmalamaca\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Yetkili_Firma.resources
+C:\Users\asus\Desktop\sacmalamaca\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\sacmalamaca\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\sacmalamaca\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.exe
+C:\Users\asus\Desktop\sacmalamaca\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.pdb
+C:\Users\asus\Desktop\sacmalamaca\15-12\proje\deneme2\deneme2\bin\Debug\deneme2.exe.config
+C:\Users\asus\Desktop\sacmalamaca\15-12\proje\deneme2\deneme2\bin\Debug\deneme2.exe
+C:\Users\asus\Desktop\sacmalamaca\15-12\proje\deneme2\deneme2\bin\Debug\deneme2.pdb
+C:\Users\asus\Desktop\16-12\15-12\proje\deneme2\deneme2\bin\Debug\deneme2.exe.config
+C:\Users\asus\Desktop\16-12\15-12\proje\deneme2\deneme2\bin\Debug\deneme2.exe
+C:\Users\asus\Desktop\16-12\15-12\proje\deneme2\deneme2\bin\Debug\deneme2.pdb
+C:\Users\asus\Desktop\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Ana_Menu.resources
+C:\Users\asus\Desktop\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Menu.resources
+C:\Users\asus\Desktop\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Payment.resources
+C:\Users\asus\Desktop\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Properties.Resources.resources
+C:\Users\asus\Desktop\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Sepet.resources
+C:\Users\asus\Desktop\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Urunler.resources
+C:\Users\asus\Desktop\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Uye_Ol.resources
+C:\Users\asus\Desktop\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Yetkili_Firma.resources
+C:\Users\asus\Desktop\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.exe
+C:\Users\asus\Desktop\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.pdb
+C:\Users\ZİŞAN\Desktop\16-12\15-12\proje\deneme2\deneme2\bin\Debug\deneme2.exe.config
+C:\Users\ZİŞAN\Desktop\16-12\15-12\proje\deneme2\deneme2\bin\Debug\deneme2.exe
+C:\Users\ZİŞAN\Desktop\16-12\15-12\proje\deneme2\deneme2\bin\Debug\deneme2.pdb
+C:\Users\ZİŞAN\Desktop\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.csprojAssemblyReference.cache
+C:\Users\ZİŞAN\Desktop\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Ana_Menu.resources
+C:\Users\ZİŞAN\Desktop\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Menu.resources
+C:\Users\ZİŞAN\Desktop\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Payment.resources
+C:\Users\ZİŞAN\Desktop\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Properties.Resources.resources
+C:\Users\ZİŞAN\Desktop\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Sepet.resources
+C:\Users\ZİŞAN\Desktop\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Urunler.resources
+C:\Users\ZİŞAN\Desktop\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Uye_Ol.resources
+C:\Users\ZİŞAN\Desktop\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Yetkili_Firma.resources
+C:\Users\ZİŞAN\Desktop\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.csproj.GenerateResource.cache
+C:\Users\ZİŞAN\Desktop\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.csproj.CoreCompileInputs.cache
+C:\Users\ZİŞAN\Desktop\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.exe
+C:\Users\ZİŞAN\Desktop\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.pdb
+C:\Users\asus\Desktop\zisandeneme\16-12\15-12\proje\deneme2\deneme2\bin\Debug\deneme2.exe.config
+C:\Users\asus\Desktop\zisandeneme\16-12\15-12\proje\deneme2\deneme2\bin\Debug\deneme2.exe
+C:\Users\asus\Desktop\zisandeneme\16-12\15-12\proje\deneme2\deneme2\bin\Debug\deneme2.pdb
+C:\Users\asus\Desktop\zisandeneme\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\zisandeneme\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Ana_Menu.resources
+C:\Users\asus\Desktop\zisandeneme\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Menu.resources
+C:\Users\asus\Desktop\zisandeneme\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Payment.resources
+C:\Users\asus\Desktop\zisandeneme\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Properties.Resources.resources
+C:\Users\asus\Desktop\zisandeneme\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Sepet.resources
+C:\Users\asus\Desktop\zisandeneme\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Urunler.resources
+C:\Users\asus\Desktop\zisandeneme\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Uye_Ol.resources
+C:\Users\asus\Desktop\zisandeneme\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Yetkili_Firma.resources
+C:\Users\asus\Desktop\zisandeneme\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\zisandeneme\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\zisandeneme\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.exe
+C:\Users\asus\Desktop\zisandeneme\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.pdb
+C:\Users\asus\Desktop\enenson\zisandeneme\16-12\15-12\proje\deneme2\deneme2\bin\Debug\deneme2.exe.config
+C:\Users\asus\Desktop\enenson\zisandeneme\16-12\15-12\proje\deneme2\deneme2\bin\Debug\deneme2.exe
+C:\Users\asus\Desktop\enenson\zisandeneme\16-12\15-12\proje\deneme2\deneme2\bin\Debug\deneme2.pdb
+C:\Users\asus\Desktop\enenson\zisandeneme\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\enenson\zisandeneme\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Ana_Menu.resources
+C:\Users\asus\Desktop\enenson\zisandeneme\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Menu.resources
+C:\Users\asus\Desktop\enenson\zisandeneme\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Payment.resources
+C:\Users\asus\Desktop\enenson\zisandeneme\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Properties.Resources.resources
+C:\Users\asus\Desktop\enenson\zisandeneme\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Sepet.resources
+C:\Users\asus\Desktop\enenson\zisandeneme\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Urunler.resources
+C:\Users\asus\Desktop\enenson\zisandeneme\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Uye_Ol.resources
+C:\Users\asus\Desktop\enenson\zisandeneme\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.Yetkili_Firma.resources
+C:\Users\asus\Desktop\enenson\zisandeneme\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\enenson\zisandeneme\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\enenson\zisandeneme\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.exe
+C:\Users\asus\Desktop\enenson\zisandeneme\16-12\15-12\proje\deneme2\deneme2\obj\Debug\deneme2.pdb
+C:\Users\BHR\Downloads\kullanıcıGirisSOrunuCözüldü (1)\kullanıcıGirisSOrunuCözüldü\proje\deneme2\deneme2\bin\Debug\deneme2.exe.config
+C:\Users\BHR\Downloads\kullanıcıGirisSOrunuCözüldü (1)\kullanıcıGirisSOrunuCözüldü\proje\deneme2\deneme2\bin\Debug\deneme2.exe
+C:\Users\BHR\Downloads\kullanıcıGirisSOrunuCözüldü (1)\kullanıcıGirisSOrunuCözüldü\proje\deneme2\deneme2\bin\Debug\deneme2.pdb
+C:\Users\BHR\Downloads\kullanıcıGirisSOrunuCözüldü (1)\kullanıcıGirisSOrunuCözüldü\proje\deneme2\deneme2\obj\Debug\deneme2.csprojResolveAssemblyReference.cache
+C:\Users\BHR\Downloads\kullanıcıGirisSOrunuCözüldü (1)\kullanıcıGirisSOrunuCözüldü\proje\deneme2\deneme2\obj\Debug\deneme2.Ana_Menu.resources
+C:\Users\BHR\Downloads\kullanıcıGirisSOrunuCözüldü (1)\kullanıcıGirisSOrunuCözüldü\proje\deneme2\deneme2\obj\Debug\deneme2.Menu.resources
+C:\Users\BHR\Downloads\kullanıcıGirisSOrunuCözüldü (1)\kullanıcıGirisSOrunuCözüldü\proje\deneme2\deneme2\obj\Debug\deneme2.Payment.resources
+C:\Users\BHR\Downloads\kullanıcıGirisSOrunuCözüldü (1)\kullanıcıGirisSOrunuCözüldü\proje\deneme2\deneme2\obj\Debug\deneme2.Properties.Resources.resources
+C:\Users\BHR\Downloads\kullanıcıGirisSOrunuCözüldü (1)\kullanıcıGirisSOrunuCözüldü\proje\deneme2\deneme2\obj\Debug\deneme2.Sepet.resources
+C:\Users\BHR\Downloads\kullanıcıGirisSOrunuCözüldü (1)\kullanıcıGirisSOrunuCözüldü\proje\deneme2\deneme2\obj\Debug\deneme2.Urunler.resources
+C:\Users\BHR\Downloads\kullanıcıGirisSOrunuCözüldü (1)\kullanıcıGirisSOrunuCözüldü\proje\deneme2\deneme2\obj\Debug\deneme2.Yetkili_Firma.resources
+C:\Users\BHR\Downloads\kullanıcıGirisSOrunuCözüldü (1)\kullanıcıGirisSOrunuCözüldü\proje\deneme2\deneme2\obj\Debug\deneme2.csproj.GenerateResource.Cache
+C:\Users\BHR\Downloads\kullanıcıGirisSOrunuCözüldü (1)\kullanıcıGirisSOrunuCözüldü\proje\deneme2\deneme2\obj\Debug\deneme2.csproj.CoreCompileInputs.cache
+C:\Users\BHR\Downloads\kullanıcıGirisSOrunuCözüldü (1)\kullanıcıGirisSOrunuCözüldü\proje\deneme2\deneme2\obj\Debug\deneme2.exe
+C:\Users\BHR\Downloads\kullanıcıGirisSOrunuCözüldü (1)\kullanıcıGirisSOrunuCözüldü\proje\deneme2\deneme2\obj\Debug\deneme2.pdb
+C:\Users\asus\Desktop\bahardeneme\bahardeneme\deneme2\bin\Debug\deneme2.exe.config
+C:\Users\asus\Desktop\bahardeneme\bahardeneme\deneme2\bin\Debug\deneme2.exe
+C:\Users\asus\Desktop\bahardeneme\bahardeneme\deneme2\bin\Debug\deneme2.pdb
+C:\Users\asus\Desktop\bahardeneme\bahardeneme\deneme2\obj\Debug\deneme2.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\bahardeneme\bahardeneme\deneme2\obj\Debug\deneme2.Ana_Menu.resources
+C:\Users\asus\Desktop\bahardeneme\bahardeneme\deneme2\obj\Debug\deneme2.Menu.resources
+C:\Users\asus\Desktop\bahardeneme\bahardeneme\deneme2\obj\Debug\deneme2.Payment.resources
+C:\Users\asus\Desktop\bahardeneme\bahardeneme\deneme2\obj\Debug\deneme2.Properties.Resources.resources
+C:\Users\asus\Desktop\bahardeneme\bahardeneme\deneme2\obj\Debug\deneme2.Sepet.resources
+C:\Users\asus\Desktop\bahardeneme\bahardeneme\deneme2\obj\Debug\deneme2.Urunler.resources
+C:\Users\asus\Desktop\bahardeneme\bahardeneme\deneme2\obj\Debug\deneme2.Yetkili_Firma.resources
+C:\Users\asus\Desktop\bahardeneme\bahardeneme\deneme2\obj\Debug\deneme2.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\bahardeneme\bahardeneme\deneme2\obj\Debug\deneme2.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\bahardeneme\bahardeneme\deneme2\obj\Debug\deneme2.exe
+C:\Users\asus\Desktop\bahardeneme\bahardeneme\deneme2\obj\Debug\deneme2.pdb
+C:\Users\asus\Desktop\Yeni klasör (2)\bahardeneme\bahardeneme\deneme2\bin\Debug\deneme2.exe.config
+C:\Users\asus\Desktop\Yeni klasör (2)\bahardeneme\bahardeneme\deneme2\bin\Debug\deneme2.exe
+C:\Users\asus\Desktop\Yeni klasör (2)\bahardeneme\bahardeneme\deneme2\bin\Debug\deneme2.pdb
+C:\Users\asus\Desktop\Yeni klasör (2)\bahardeneme\bahardeneme\deneme2\obj\Debug\deneme2.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\Yeni klasör (2)\bahardeneme\bahardeneme\deneme2\obj\Debug\deneme2.Ana_Menu.resources
+C:\Users\asus\Desktop\Yeni klasör (2)\bahardeneme\bahardeneme\deneme2\obj\Debug\deneme2.Menu.resources
+C:\Users\asus\Desktop\Yeni klasör (2)\bahardeneme\bahardeneme\deneme2\obj\Debug\deneme2.Payment.resources
+C:\Users\asus\Desktop\Yeni klasör (2)\bahardeneme\bahardeneme\deneme2\obj\Debug\deneme2.Properties.Resources.resources
+C:\Users\asus\Desktop\Yeni klasör (2)\bahardeneme\bahardeneme\deneme2\obj\Debug\deneme2.Sepet.resources
+C:\Users\asus\Desktop\Yeni klasör (2)\bahardeneme\bahardeneme\deneme2\obj\Debug\deneme2.Urunler.resources
+C:\Users\asus\Desktop\Yeni klasör (2)\bahardeneme\bahardeneme\deneme2\obj\Debug\deneme2.Yetkili_Firma.resources
+C:\Users\asus\Desktop\Yeni klasör (2)\bahardeneme\bahardeneme\deneme2\obj\Debug\deneme2.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\Yeni klasör (2)\bahardeneme\bahardeneme\deneme2\obj\Debug\deneme2.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Yeni klasör (2)\bahardeneme\bahardeneme\deneme2\obj\Debug\deneme2.exe
+C:\Users\asus\Desktop\Yeni klasör (2)\bahardeneme\bahardeneme\deneme2\obj\Debug\deneme2.pdb
