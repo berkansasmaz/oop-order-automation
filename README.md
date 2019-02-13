@@ -79,31 +79,27 @@ UML diyagramında kullanılan sınıfların detaylı açıklamaları ve işlevle
 
 
 
-#Önemli Kod Parçaları
-Bu parçada sepetimize ürün ekleme kısmı gerçekleştirilmiştir.
+#Önemli Kod Parçaları:
+1. Bu parçada sepetimize ürün ekleme kısmı gerçekleştirilmiştir.
 
+2. Ödeme için onay alındıktan sonra girilmiş olan verilerimizle sipariş detayı oluşturuluyor ve sepette görüntülenmek üzere sepet listesine aktarılıyor. Daha sonra sipariş listesinden bu verileri çekiyoruz.
 
-Ödeme için onay alındıktan sonra girilmiş olan verilerimizle sipariş detayı oluşturuluyor ve sepette görüntülenmek üzere sepet listesine aktarılıyor. Daha sonra sipariş listesinden bu verileri çekiyoruz.
+3. ListBox’tan seçilen ürünün stok miktarını ComboBox’lara ekliyoruz.
 
+3. StreamReader sınıfının nesnesini türettiyoruz. Aynı zamanda çekilen veriyi alfabemize uygun hale getiriyoruz. Dosyanın içinde ki verileri çekip temp değişkenine atıyoruz. Temp içinde ki verileri her bir boşluk gördüğünde components dizisine atıyacak şekilde ayarladık.
 
+4. Müşteri giriş yaptığında yetkili formu gözükmemesi için geriye boolean değer döndürdük. 
 
+5. Temp içinde ki verileri her bir boşluk gördüğünde components dizisine atıyacak. Listbox' ta daha sonra yazdırmak için components dizisinin içindeki verilerin bazılarını \t ile ayırarak dataArray değişkenine atıyoruz. Listbox' tan yazdırlan veriyi \t ile ayırmıştık,şimdi ise kullanıcının seçtiği veriyi \t ayırıyoruz.
 
-ListBox’tan seçilen ürünün stok miktarını ComboBox’lara ekliyoruz.
-
-StreamReader sınıfının nesnesini türettiyoruz. Aynı zamanda çekilen veriyi alfabemize uygun hale getiriyoruz. Dosyanın içinde ki verileri çekip temp değişkenine atıyoruz. Temp içinde ki verileri her bir boşluk gördüğünde components dizisine atıyacak şekilde ayarladık.
-
-
-Müşteri giriş yaptığında yetkili formu gözükmemesi için geriye boolean değer döndürdük. 
-
-Temp içinde ki verileri her bir boşluk gördüğünde components dizisine atıyacak. Listbox' ta daha sonra yazdırmak için components dizisinin içindeki verilerin bazılarını \t ile ayırarak dataArray değişkenine atıyoruz. Listbox' tan yazdırlan veriyi \t ile ayırmıştık,şimdi ise kullanıcının seçtiği veriyi \t ayırıyoruz.
-Temp içinde ki verileri her bir boşluk gördüğünde components dizisine atıyacak şekilde ayarlıyoruz.
+6. Temp içinde ki verileri her bir boşluk gördüğünde components dizisine atıyacak şekilde ayarlıyoruz.
 
 
 
-#Youtube Linki
+#Youtube Linki:
 https://youtu.be/LxXsTPVMaeM
 
-#Yararlanılan Kaynaklar
+#Yararlanılan Kaynaklar:
 	1.	https://www.youtube.com/channel/UCeTERIXq5FWhTkblkVW_0Nw
 	2.	C# 7.0 Sefer Algan
 	3.	https://stackoverflow.com/	
