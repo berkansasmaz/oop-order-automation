@@ -1,19 +1,17 @@
 # OOP Order Automation
 MCBU software engineering is the first project of object-oriented programming.
 
-MANİSA CELAL BAYAR ÜNİVERSİTESİ
+                                             MANİSA CELAL BAYAR ÜNİVERSİTESİ
 	
-HASAN FERDİ TURGUTLU TEKNOLOJİ FAKÜLTESİ
-1.DÖNEM PROJE ÖDEVİ RAPORU
-2018-2019
+                      HASAN FERDİ TURGUTLU TEKNOLOJİ FAKÜLTESİ 1.DÖNEM PROJE ÖDEVİ RAPORU 2018-2019
 
 
 
 PROJE EKİBİ
-Bahar YILMAZ-   172802013
-Berkan ŞAŞMAZ-   182803002
-Mustafa Taha SOYDAN- 162805003
-Zişan KARSATAR- 172802058
+1. Bahar YILMAZ-   172802013
+2. Berkan ŞAŞMAZ-   182803002
+3. Mustafa Taha SOYDAN- 162805003
+4. Zişan KARSATAR- 172802058
 
 
 
