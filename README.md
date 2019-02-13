@@ -100,11 +100,8 @@ UML diyagramında kullanılan sınıfların detaylı açıklamaları ve işlevle
 https://youtu.be/LxXsTPVMaeM
 
 #Yararlanılan Kaynaklar:
-
-	1. https://www.youtube.com/channel/UCeTERIXq5FWhTkblkVW_0Nw
-	
-	2. C# 7.0 Sefer Algan
-	
-	3. https://stackoverflow.com/
+1. https://www.youtube.com/channel/UCeTERIXq5FWhTkblkVW_0Nw
+2. C# 7.0 Sefer Algan
+3. https://stackoverflow.com/
 
 
